@@ -12,6 +12,11 @@
 }
 ._图片_ {
 }
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 .link_button {
   color:#169BD5;
 }
@@ -63,8 +68,25 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .checkbox {
   text-align:left;
+}
+.sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
 }
 .form_hint {
   color:#999999;
@@ -82,6 +104,8 @@
   text-align:left;
 }
 .line {
+}
+.arrow {
 }
 .heading_1 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
@@ -231,6 +255,9 @@
 .placeholder {
 }
 .vertical_line {
+}
+.radio_button {
+  text-align:left;
 }
 .iconfont {
   font-family:'iconfont ', 'iconfont', sans-serif;
