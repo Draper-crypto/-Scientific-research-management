@@ -79,6 +79,9 @@
 .checkbox {
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
 .sticky_1 {
   text-align:left;
 }
@@ -99,6 +102,8 @@
 ._表单禁用 {
 }
 ._流程形状 {
+}
+._连接 {
 }
 .paragraph {
   text-align:left;
@@ -128,6 +133,8 @@
 .horizontal_line {
 }
 .shape {
+}
+._形状 {
 }
 .box_1 {
 }
@@ -256,7 +263,7 @@
 }
 .vertical_line {
 }
-.radio_button {
+.radio_button1 {
   text-align:left;
 }
 .iconfont {
@@ -348,6 +355,13 @@
   font-size:16px;
   text-align:left;
 }
+._30号字_服务主标题，例如双行列表内的下方描述信息。__） {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  text-align:left;
+}
 ._28号字_页面备注信息及列表的表头说明文字__） {
   font-family:'PingFang SC ', 'PingFang SC', sans-serif;
   font-weight:400;
@@ -367,5 +381,13 @@
 }
 ._文本链接 {
   color:#0000FF;
+}
+.label2 {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:34px;
+  color:#000000;
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
